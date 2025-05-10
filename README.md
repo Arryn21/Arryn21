@@ -8,7 +8,7 @@ I'm currently working on my Master's in Cybersecurity, chasing a big dream — t
 
 Cybersecurity is evolving fast, and I’m doing my best to stay ahead of the curve. Here are some of the areas I’m currently diving into:
 
-- **Programming:** I'm building solid foundations in Python, C++, and JavaScript. These languages are my toolkit for crafting secure, efficient solutions.
+- **Programming:** I'm building solid foundations in Python, and JavaScript. These languages are my toolkit for crafting secure, efficient solutions.
 
 - **Networking & System Administration:** Understanding how data flows and how systems tick is key to spotting weak points. I'm learning to think like both an architect and a hacker.
 
