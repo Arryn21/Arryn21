@@ -27,6 +27,28 @@
 - **Tools:** Wireshark, Burp Suite, Nmap, Splunk, OWASP ZAP, Sysinternals
 - **Cloud:** AWS (hands-on), Azure (learning)
 
+## 🛠️ Toolbelt (badges)
+
+![Python](https://img.shields.io/badge/Python-3.x-informational?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-informational?logo=javascript)
+![Bash](https://img.shields.io/badge/Bash-Scripting-informational?logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-CLI-informational?logo=linux)
+![AWS](https://img.shields.io/badge/AWS-Hands--on-informational?logo=amazonaws)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-informational?logo=splunk)
+![Burp](https://img.shields.io/badge/Burp%20Suite-Testing-informational)
+![Nmap](https://img.shields.io/badge/Nmap-Scanning-informational)
+![Wireshark](https://img.shields.io/badge/Wireshark-PCAP-informational?logo=wireshark)
+![Docker](https://img.shields.io/badge/Docker-Beginner-informational?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-informational?logo=githubactions)
+
+## 🔐 Hands-On Labs & Exercises
+
+- **Offensive**: OWASP Juice Shop walkthroughs, auth bypass practice, input validation tests, basic SSRF/IDOR labs  
+- **Defensive**: WAF rules, rate limiting, secure headers, least-privilege IAM, secrets handling  
+- **DFIR**: Event ID correlation (4624/4625/4672…), Apache access/error patterns, firewall anomaly hunting  
+- **Networking**: Subnetting drills, routing basics, VLAN concepts, packet captures with Wireshark filters  
+- **Automation**: Bash/Python scripts with retries, logging, idempotency, state files
+
 ## 🚀 My Cybersecurity Journey  
 
 I didn’t start as a hacker. I started as someone simply *curious* — why does this work? Why does that break? Over time, that curiosity grew into a passion, and eventually a career path.  
